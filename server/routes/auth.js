@@ -3,7 +3,7 @@ import {  } from '../controllers/auth.js';
 
 const router = express.Router();
 
-//Create a new user 
+//Create a new user
 router.post("/signup", );
 //Sign in a user
 router.post("/signin",);
